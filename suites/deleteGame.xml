@@ -6,7 +6,7 @@
                 <include name = "Delete Game By Name"/>
             </run>
         </groups>
-        <parameter name = "gameName" value= "Stratego"/>
+        <parameter name = "gameName" value= "Room 25"/>
         <classes>
             <class name = "test.java.DBfirstAttempt"/>
         </classes>
