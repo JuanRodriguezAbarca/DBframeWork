@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Adding games from table" verbose="1">
+    <test name="Reading XLSX and adding">
+        <groups>
+            <run>
+                <include name="Adding Games"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="test.java.DBfirstAttempt"/>
+        </classes>
+    </test>
+</suite>

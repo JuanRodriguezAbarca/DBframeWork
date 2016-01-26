@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="My First DB Suite" verbose="10">
+    <test name="Testing DB">
+        <groups>
+            <run>
+                <include name = "Quering by Editorial"/>
+                <include name = "Display the Table"/>
+                <include name = "Print the excel file"/>
+            </run>
+        </groups>
+        <parameter name = "Editorial" value= "Edge"/>
+        <classes>
+            <class name = "test.java.DBfirstAttempt"/>
+        </classes>
+    </test>
+</suite>
+
+

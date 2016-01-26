@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Deleting games from table" verbose="1">
+    <test name="Deleting game by name">
+        <groups>
+            <run>
+                <include name = "Delete Expansion"/>
+            </run>
+        </groups>
+        <parameter name = "gameName" value= "Small World"/>
+        <parameter name = "expansionName" value ="Mindas"/>
+        <classes>
+            <class name = "test.java.DBfirstAttempt"/>
+        </classes>
+    </test>
+</suite>

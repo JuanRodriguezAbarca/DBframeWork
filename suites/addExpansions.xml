@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Adding Expansions to the base game" verbose="1">
+    <test name="Adding Expansions from XLSX">
+        <groups>
+            <run>
+                <include name = "Adding Expansions to the base game"/>
+            </run>
+        </groups>
+        <classes>
+            <class name = "test.java.DBfirstAttempt"/>
+        </classes>
+    </test>
+</suite>
