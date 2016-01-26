@@ -18,6 +18,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Maven: com.oracle:ojdbc6:11.2.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.testng:testng:6.9.8" level="project" />
     <orderEntry type="library" name="Maven: org.beanshell:bsh:2.0b4" level="project" />
     <orderEntry type="library" name="Maven: com.beust:jcommander:1.48" level="project" />
@@ -61,7 +62,6 @@
     <orderEntry type="library" name="Maven: org.webbitserver:webbit:0.4.14" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty:3.5.2.Final" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-leg-rc:2.48.1" level="project" />
-    <orderEntry type="library" name="Maven: com.oracle:ojdbc14:10.2.0.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml:3.11-beta2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi:3.11-beta2" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.9" level="project" />
